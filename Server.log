@@ -1,0 +1,504 @@
+2014-03-12 09:10:02,396 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:10:02,399 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:10:02,400 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:10:02,447 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@657d5d2a: startup date [Wed Mar 12 09:10:02 CST 2014]; root of context hierarchy
+2014-03-12 09:10:02,447 [AbstractApplicationContext.java:543][DEBUG]:Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@657d5d2a: org.springframework.beans.factory.support.DefaultListableBeanFactory@1f8b81e3: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig]; root of factory hierarchy
+2014-03-12 09:10:02,457 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:10:02,457 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:10:02,471 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:10:02,472 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:10:02,488 [DefaultSingletonBeanRegistry.java:474][DEBUG]:Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1f8b81e3: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor]; root of factory hierarchy
+2014-03-12 09:11:21,664 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:11:21,668 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:11:21,668 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:11:21,717 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6791d8c1: startup date [Wed Mar 12 09:11:21 CST 2014]; root of context hierarchy
+2014-03-12 09:11:21,717 [AbstractApplicationContext.java:543][DEBUG]:Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@6791d8c1: org.springframework.beans.factory.support.DefaultListableBeanFactory@9a082e2: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig]; root of factory hierarchy
+2014-03-12 09:11:21,727 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:11:21,727 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:11:21,740 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:11:21,742 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:11:21,758 [DefaultSingletonBeanRegistry.java:474][DEBUG]:Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@9a082e2: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor]; root of factory hierarchy
+2014-03-12 09:11:56,502 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:11:56,506 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:11:56,506 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:11:56,554 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@502bb514: startup date [Wed Mar 12 09:11:56 CST 2014]; root of context hierarchy
+2014-03-12 09:11:56,555 [AbstractApplicationContext.java:543][DEBUG]:Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@502bb514: org.springframework.beans.factory.support.DefaultListableBeanFactory@60961dff: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig]; root of factory hierarchy
+2014-03-12 09:11:56,564 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:11:56,564 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:11:56,577 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:11:56,579 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:11:56,595 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:11:56,595 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:11:56,595 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:11:56,598 [PathMatchingResourcePatternResolver.java:553][DEBUG]:Looking for matching resources in directory tree [E:\workspace\work\spring-webscoket\target\classes\com\moo]
+2014-03-12 09:11:56,599 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:11:56,600 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:11:56,600 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:11:56,602 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:11:56,602 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:11:56,603 [PathMatchingResourcePatternResolver.java:354][DEBUG]:Resolved location pattern [classpath*:com/moo/**/*.class] to resources [file [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg\SpringConfig.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Main.class]]
+2014-03-12 09:11:56,617 [MutablePropertySources.java:110][DEBUG]:Adding [class path resource [server.properties]] PropertySource with lowest search precedence
+2014-03-12 09:11:56,665 [ConfigurationClassEnhancer.java:102][DEBUG]:Successfully enhanced com.moo.socketio.cfg.SpringConfig; enhanced class name is: com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$58adada7
+2014-03-12 09:11:56,665 [ConfigurationClassPostProcessor.java:371][DEBUG]:Replacing bean definition 'springConfig' existing class name 'com.moo.socketio.cfg.SpringConfig' with enhanced class name 'com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$58adada7'
+2014-03-12 09:11:56,667 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:11:56,667 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:11:56,667 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:11:56,667 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:11:56,667 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:11:56,668 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:11:56,668 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:11:56,668 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:11:56,668 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:11:56,668 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:11:56,689 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:11:56,689 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:11:56,689 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:11:56,689 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:11:56,689 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor' to allow for resolving potential circular references
+2014-03-12 09:11:56,689 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:11:56,690 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:11:56,690 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:11:56,690 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor' to allow for resolving potential circular references
+2014-03-12 09:11:56,690 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:11:56,692 [AbstractApplicationContext.java:649][DEBUG]:Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@643ae941]
+2014-03-12 09:11:56,693 [AbstractApplicationContext.java:673][DEBUG]:Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@221fd5e2]
+2014-03-12 09:11:56,694 [DefaultListableBeanFactory.java:669][DEBUG]:Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@60961dff: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor]; root of factory hierarchy
+2014-03-12 09:11:56,694 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:11:56,694 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:11:56,695 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:11:56,695 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:11:56,695 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'springConfig'
+2014-03-12 09:11:56,695 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'springConfig'
+2014-03-12 09:11:56,696 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'springConfig' to allow for resolving potential circular references
+2014-03-12 09:11:56,705 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'springConfig'
+2014-03-12 09:11:56,705 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:11:56,705 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:11:56,706 [AbstractApplicationContext.java:700][DEBUG]:Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@1d766806]
+2014-03-12 09:11:56,707 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:11:56,708 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+2014-03-12 09:11:56,708 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+2014-03-12 09:11:56,708 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [class path resource [server.properties]]
+2014-03-12 09:11:56,708 [PropertySourcesPropertyResolver.java:103][DEBUG]:Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+2014-03-12 09:11:56,709 [AbstractApplicationContext.java:873][INFO]:Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@502bb514: startup date [Wed Mar 12 09:11:56 CST 2014]; root of context hierarchy
+2014-03-12 09:11:56,709 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:11:56,710 [DefaultSingletonBeanRegistry.java:474][DEBUG]:Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@60961dff: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor]; root of factory hierarchy
+2014-03-12 09:11:56,710 [DisposableBeanAdapter.java:244][DEBUG]:Invoking destroy() on bean with name 'springConfig'
+2014-03-12 09:31:23,915 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:31:23,919 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:31:23,919 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:31:23,971 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@96fa474: startup date [Wed Mar 12 09:31:23 CST 2014]; root of context hierarchy
+2014-03-12 09:31:23,972 [AbstractApplicationContext.java:543][DEBUG]:Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@96fa474: org.springframework.beans.factory.support.DefaultListableBeanFactory@7ffc6e42: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig]; root of factory hierarchy
+2014-03-12 09:31:23,981 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:31:23,982 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:31:23,994 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:31:23,996 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:31:24,012 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:31:24,012 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:31:24,012 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:31:24,015 [PathMatchingResourcePatternResolver.java:553][DEBUG]:Looking for matching resources in directory tree [E:\workspace\work\spring-webscoket\target\classes\com\moo]
+2014-03-12 09:31:24,015 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:31:24,017 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:31:24,017 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:31:24,019 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:31:24,019 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:31:24,020 [PathMatchingResourcePatternResolver.java:354][DEBUG]:Resolved location pattern [classpath*:com/moo/**/*.class] to resources [file [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg\SpringConfig.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Main.class]]
+2014-03-12 09:31:24,032 [ClassPathScanningCandidateComponentProvider.java:284][DEBUG]:Identified candidate component class: file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class]
+2014-03-12 09:31:24,036 [MutablePropertySources.java:110][DEBUG]:Adding [class path resource [server.properties]] PropertySource with lowest search precedence
+2014-03-12 09:31:24,085 [ConfigurationClassEnhancer.java:102][DEBUG]:Successfully enhanced com.moo.socketio.cfg.SpringConfig; enhanced class name is: com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$fa5d6d98
+2014-03-12 09:31:24,085 [ConfigurationClassPostProcessor.java:371][DEBUG]:Replacing bean definition 'springConfig' existing class name 'com.moo.socketio.cfg.SpringConfig' with enhanced class name 'com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$fa5d6d98'
+2014-03-12 09:31:24,087 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:31:24,087 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:31:24,087 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:31:24,087 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:31:24,088 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:31:24,088 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:31:24,088 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:31:24,088 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:31:24,088 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:31:24,088 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:31:24,091 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:31:24,091 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:31:24,091 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:31:24,091 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:31:24,091 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor' to allow for resolving potential circular references
+2014-03-12 09:31:24,091 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:31:24,092 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:31:24,092 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:31:24,092 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor' to allow for resolving potential circular references
+2014-03-12 09:31:24,092 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:31:24,094 [AbstractApplicationContext.java:649][DEBUG]:Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@13b06041]
+2014-03-12 09:31:24,095 [AbstractApplicationContext.java:673][DEBUG]:Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@75982fc1]
+2014-03-12 09:31:24,096 [DefaultListableBeanFactory.java:669][DEBUG]:Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7ffc6e42: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:31:24,096 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:31:24,096 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:31:24,096 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:31:24,096 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:31:24,097 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'springConfig'
+2014-03-12 09:31:24,097 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'springConfig'
+2014-03-12 09:31:24,098 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'springConfig' to allow for resolving potential circular references
+2014-03-12 09:31:24,107 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'springConfig'
+2014-03-12 09:31:24,107 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:31:24,107 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:31:24,107 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'bootstrap'
+2014-03-12 09:31:24,107 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'bootstrap'
+2014-03-12 09:31:24,109 [InitDestroyAnnotationBeanPostProcessor.java:205][DEBUG]:Found init method on class [com.moo.socketio.server.Bootstrap]: public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:31:24,109 [InitDestroyAnnotationBeanPostProcessor.java:272][DEBUG]:Registered init method on class [com.moo.socketio.server.Bootstrap]: org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement@68ac462
+2014-03-12 09:31:24,110 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'bootstrap' to allow for resolving potential circular references
+2014-03-12 09:31:24,110 [InitDestroyAnnotationBeanPostProcessor.java:298][DEBUG]:Invoking init method on bean 'bootstrap': public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:31:24,110 [Bootstrap.java:16][DEBUG]:starting server
+2014-03-12 09:31:24,111 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'bootstrap'
+2014-03-12 09:31:24,112 [AbstractApplicationContext.java:700][DEBUG]:Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@194835fb]
+2014-03-12 09:31:24,112 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:31:24,113 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+2014-03-12 09:31:24,113 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+2014-03-12 09:31:24,114 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [class path resource [server.properties]]
+2014-03-12 09:31:24,114 [PropertySourcesPropertyResolver.java:103][DEBUG]:Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+2014-03-12 09:31:24,115 [AbstractApplicationContext.java:873][INFO]:Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@96fa474: startup date [Wed Mar 12 09:31:23 CST 2014]; root of context hierarchy
+2014-03-12 09:31:24,115 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:31:24,115 [DefaultSingletonBeanRegistry.java:474][DEBUG]:Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7ffc6e42: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:31:24,115 [DisposableBeanAdapter.java:244][DEBUG]:Invoking destroy() on bean with name 'springConfig'
+2014-03-12 09:33:01,456 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:33:01,460 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:33:01,460 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:33:01,506 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 09:33:01 CST 2014]; root of context hierarchy
+2014-03-12 09:33:01,506 [AbstractApplicationContext.java:543][DEBUG]:Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: org.springframework.beans.factory.support.DefaultListableBeanFactory@57d2fc36: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig]; root of factory hierarchy
+2014-03-12 09:33:01,516 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:01,516 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:01,529 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:01,531 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:01,547 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:33:01,547 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:33:01,548 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:33:01,550 [PathMatchingResourcePatternResolver.java:553][DEBUG]:Looking for matching resources in directory tree [E:\workspace\work\spring-webscoket\target\classes\com\moo]
+2014-03-12 09:33:01,551 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:01,552 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:01,552 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:01,554 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:01,554 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:01,555 [PathMatchingResourcePatternResolver.java:354][DEBUG]:Resolved location pattern [classpath*:com/moo/**/*.class] to resources [file [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg\SpringConfig.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Main.class]]
+2014-03-12 09:33:01,567 [ClassPathScanningCandidateComponentProvider.java:284][DEBUG]:Identified candidate component class: file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class]
+2014-03-12 09:33:01,571 [MutablePropertySources.java:110][DEBUG]:Adding [class path resource [server.properties]] PropertySource with lowest search precedence
+2014-03-12 09:33:01,620 [ConfigurationClassEnhancer.java:102][DEBUG]:Successfully enhanced com.moo.socketio.cfg.SpringConfig; enhanced class name is: com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$fd51de2c
+2014-03-12 09:33:01,620 [ConfigurationClassPostProcessor.java:371][DEBUG]:Replacing bean definition 'springConfig' existing class name 'com.moo.socketio.cfg.SpringConfig' with enhanced class name 'com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$fd51de2c'
+2014-03-12 09:33:01,622 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:01,622 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:01,622 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:01,623 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:01,623 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:01,623 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:01,623 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:01,623 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:01,623 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:01,624 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:01,626 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:01,626 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:01,626 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:01,626 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:01,627 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:01,627 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:01,627 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:01,627 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:01,627 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:01,627 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:01,629 [AbstractApplicationContext.java:649][DEBUG]:Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@5a676437]
+2014-03-12 09:33:01,631 [AbstractApplicationContext.java:673][DEBUG]:Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@1d329642]
+2014-03-12 09:33:01,632 [DefaultListableBeanFactory.java:669][DEBUG]:Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@57d2fc36: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:33:01,632 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:01,632 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:01,632 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:01,632 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:01,632 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'springConfig'
+2014-03-12 09:33:01,632 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'springConfig'
+2014-03-12 09:33:01,634 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'springConfig' to allow for resolving potential circular references
+2014-03-12 09:33:01,642 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'springConfig'
+2014-03-12 09:33:01,643 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:01,643 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:01,643 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'bootstrap'
+2014-03-12 09:33:01,643 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'bootstrap'
+2014-03-12 09:33:01,645 [InitDestroyAnnotationBeanPostProcessor.java:205][DEBUG]:Found init method on class [com.moo.socketio.server.Bootstrap]: public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:33:01,645 [InitDestroyAnnotationBeanPostProcessor.java:272][DEBUG]:Registered init method on class [com.moo.socketio.server.Bootstrap]: org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement@68ac462
+2014-03-12 09:33:01,645 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'bootstrap' to allow for resolving potential circular references
+2014-03-12 09:33:01,646 [InitDestroyAnnotationBeanPostProcessor.java:298][DEBUG]:Invoking init method on bean 'bootstrap': public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:33:01,646 [Bootstrap.java:16][DEBUG]:starting server
+2014-03-12 09:33:01,646 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'bootstrap'
+2014-03-12 09:33:01,648 [AbstractApplicationContext.java:700][DEBUG]:Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@1c701a27]
+2014-03-12 09:33:01,648 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:33:01,649 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+2014-03-12 09:33:01,649 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+2014-03-12 09:33:01,650 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [class path resource [server.properties]]
+2014-03-12 09:33:01,650 [PropertySourcesPropertyResolver.java:103][DEBUG]:Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+2014-03-12 09:33:01,651 [AbstractApplicationContext.java:873][INFO]:Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 09:33:01 CST 2014]; root of context hierarchy
+2014-03-12 09:33:01,651 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:33:01,651 [DefaultSingletonBeanRegistry.java:474][DEBUG]:Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@57d2fc36: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:33:01,651 [DisposableBeanAdapter.java:244][DEBUG]:Invoking destroy() on bean with name 'springConfig'
+2014-03-12 09:33:38,904 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:33:38,909 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:33:38,909 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:33:38,956 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7e0c2ff5: startup date [Wed Mar 12 09:33:38 CST 2014]; root of context hierarchy
+2014-03-12 09:33:38,957 [AbstractApplicationContext.java:543][DEBUG]:Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@7e0c2ff5: org.springframework.beans.factory.support.DefaultListableBeanFactory@5cac6a45: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig]; root of factory hierarchy
+2014-03-12 09:33:38,967 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:38,967 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:38,980 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:38,982 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:38,999 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:33:38,999 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:33:39,000 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:33:39,003 [PathMatchingResourcePatternResolver.java:553][DEBUG]:Looking for matching resources in directory tree [E:\workspace\work\spring-webscoket\target\classes\com\moo]
+2014-03-12 09:33:39,003 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:39,005 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:39,005 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:39,007 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:39,007 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:33:39,008 [PathMatchingResourcePatternResolver.java:354][DEBUG]:Resolved location pattern [classpath*:com/moo/**/*.class] to resources [file [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg\SpringConfig.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Main.class]]
+2014-03-12 09:33:39,022 [ClassPathScanningCandidateComponentProvider.java:284][DEBUG]:Identified candidate component class: file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class]
+2014-03-12 09:33:39,026 [MutablePropertySources.java:110][DEBUG]:Adding [class path resource [server.properties]] PropertySource with lowest search precedence
+2014-03-12 09:33:39,076 [ConfigurationClassEnhancer.java:102][DEBUG]:Successfully enhanced com.moo.socketio.cfg.SpringConfig; enhanced class name is: com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$6f701c12
+2014-03-12 09:33:39,076 [ConfigurationClassPostProcessor.java:371][DEBUG]:Replacing bean definition 'springConfig' existing class name 'com.moo.socketio.cfg.SpringConfig' with enhanced class name 'com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$6f701c12'
+2014-03-12 09:33:39,077 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:39,078 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:39,078 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:39,078 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:39,079 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:39,079 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:39,079 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:39,079 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:39,079 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:39,079 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:39,082 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:39,082 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:39,083 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:39,083 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:39,083 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:39,083 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:39,083 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:39,083 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:39,083 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor' to allow for resolving potential circular references
+2014-03-12 09:33:39,084 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:39,086 [AbstractApplicationContext.java:649][DEBUG]:Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@39e4853f]
+2014-03-12 09:33:39,087 [AbstractApplicationContext.java:673][DEBUG]:Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@6426d607]
+2014-03-12 09:33:39,088 [DefaultListableBeanFactory.java:669][DEBUG]:Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5cac6a45: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:33:39,088 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:33:39,089 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:33:39,089 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:33:39,089 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:33:39,089 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'springConfig'
+2014-03-12 09:33:39,089 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'springConfig'
+2014-03-12 09:33:39,090 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'springConfig' to allow for resolving potential circular references
+2014-03-12 09:33:39,099 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'springConfig'
+2014-03-12 09:33:39,099 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:33:39,099 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:33:39,099 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'bootstrap'
+2014-03-12 09:33:39,099 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'bootstrap'
+2014-03-12 09:33:39,101 [InitDestroyAnnotationBeanPostProcessor.java:205][DEBUG]:Found init method on class [com.moo.socketio.server.Bootstrap]: public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:33:39,101 [InitDestroyAnnotationBeanPostProcessor.java:272][DEBUG]:Registered init method on class [com.moo.socketio.server.Bootstrap]: org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement@68ac462
+2014-03-12 09:33:39,102 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'bootstrap' to allow for resolving potential circular references
+2014-03-12 09:33:39,102 [InitDestroyAnnotationBeanPostProcessor.java:298][DEBUG]:Invoking init method on bean 'bootstrap': public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:33:39,103 [Bootstrap.java:16][DEBUG]:starting server
+2014-03-12 09:33:39,103 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'bootstrap'
+2014-03-12 09:33:39,104 [AbstractApplicationContext.java:700][DEBUG]:Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3c50507]
+2014-03-12 09:33:39,104 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:33:39,105 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+2014-03-12 09:33:39,106 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+2014-03-12 09:33:39,106 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [class path resource [server.properties]]
+2014-03-12 09:33:39,106 [PropertySourcesPropertyResolver.java:103][DEBUG]:Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+2014-03-12 09:33:39,107 [AbstractApplicationContext.java:873][INFO]:Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@7e0c2ff5: startup date [Wed Mar 12 09:33:38 CST 2014]; root of context hierarchy
+2014-03-12 09:33:39,107 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:33:39,107 [DefaultSingletonBeanRegistry.java:474][DEBUG]:Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5cac6a45: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:33:39,107 [DisposableBeanAdapter.java:244][DEBUG]:Invoking destroy() on bean with name 'springConfig'
+2014-03-12 09:34:17,337 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:34:17,341 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:34:17,342 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:34:17,390 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 09:34:17 CST 2014]; root of context hierarchy
+2014-03-12 09:34:17,390 [AbstractApplicationContext.java:543][DEBUG]:Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: org.springframework.beans.factory.support.DefaultListableBeanFactory@57d2fc36: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig]; root of factory hierarchy
+2014-03-12 09:34:17,400 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:34:17,400 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:34:17,413 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:34:17,415 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:34:17,431 [MutablePropertySources.java:110][DEBUG]:Adding [systemProperties] PropertySource with lowest search precedence
+2014-03-12 09:34:17,431 [MutablePropertySources.java:110][DEBUG]:Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-03-12 09:34:17,432 [AbstractEnvironment.java:126][DEBUG]:Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-03-12 09:34:17,434 [PathMatchingResourcePatternResolver.java:553][DEBUG]:Looking for matching resources in directory tree [E:\workspace\work\spring-webscoket\target\classes\com\moo]
+2014-03-12 09:34:17,435 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:34:17,436 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:34:17,436 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:34:17,438 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:34:17,438 [PathMatchingResourcePatternResolver.java:615][DEBUG]:Searching directory [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server] for files matching pattern [E:/workspace/work/spring-webscoket/target/classes/com/moo/**/*.class]
+2014-03-12 09:34:17,440 [PathMatchingResourcePatternResolver.java:354][DEBUG]:Resolved location pattern [classpath*:com/moo/**/*.class] to resources [file [E:\workspace\work\spring-webscoket\target\classes\com\moo\socketio\cfg\SpringConfig.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class], file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Main.class]]
+2014-03-12 09:34:17,452 [ClassPathScanningCandidateComponentProvider.java:284][DEBUG]:Identified candidate component class: file [E:\workspace\work\spring-webscoket\target\classes\com\moo\sokcetio\server\Bootstrap.class]
+2014-03-12 09:34:17,456 [MutablePropertySources.java:110][DEBUG]:Adding [class path resource [server.properties]] PropertySource with lowest search precedence
+2014-03-12 09:34:17,504 [ConfigurationClassEnhancer.java:102][DEBUG]:Successfully enhanced com.moo.socketio.cfg.SpringConfig; enhanced class name is: com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$6f701c12
+2014-03-12 09:34:17,504 [ConfigurationClassPostProcessor.java:371][DEBUG]:Replacing bean definition 'springConfig' existing class name 'com.moo.socketio.cfg.SpringConfig' with enhanced class name 'com.moo.socketio.cfg.SpringConfig$$EnhancerBySpringCGLIB$$6f701c12'
+2014-03-12 09:34:17,506 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:34:17,506 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:34:17,506 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:34:17,507 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:34:17,507 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:34:17,507 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:34:17,507 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:34:17,507 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:34:17,508 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:34:17,508 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:34:17,510 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' to allow for resolving potential circular references
+2014-03-12 09:34:17,511 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:34:17,511 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:34:17,511 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:34:17,511 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor' to allow for resolving potential circular references
+2014-03-12 09:34:17,511 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:34:17,511 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:34:17,511 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:34:17,512 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor' to allow for resolving potential circular references
+2014-03-12 09:34:17,512 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:34:17,514 [AbstractApplicationContext.java:649][DEBUG]:Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@39e4853f]
+2014-03-12 09:34:17,515 [AbstractApplicationContext.java:673][DEBUG]:Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@6426d607]
+2014-03-12 09:34:17,516 [DefaultListableBeanFactory.java:669][DEBUG]:Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@57d2fc36: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:34:17,516 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-03-12 09:34:17,516 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-03-12 09:34:17,517 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-03-12 09:34:17,517 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-03-12 09:34:17,517 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'springConfig'
+2014-03-12 09:34:17,517 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'springConfig'
+2014-03-12 09:34:17,518 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'springConfig' to allow for resolving potential circular references
+2014-03-12 09:34:17,527 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'springConfig'
+2014-03-12 09:34:17,527 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+2014-03-12 09:34:17,527 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+2014-03-12 09:34:17,527 [DefaultSingletonBeanRegistry.java:220][DEBUG]:Creating shared instance of singleton bean 'bootstrap'
+2014-03-12 09:34:17,527 [AbstractAutowireCapableBeanFactory.java:449][DEBUG]:Creating instance of bean 'bootstrap'
+2014-03-12 09:34:17,529 [InitDestroyAnnotationBeanPostProcessor.java:205][DEBUG]:Found init method on class [com.moo.socketio.server.Bootstrap]: public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:34:17,529 [InitDestroyAnnotationBeanPostProcessor.java:272][DEBUG]:Registered init method on class [com.moo.socketio.server.Bootstrap]: org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement@68ac462
+2014-03-12 09:34:17,530 [AbstractAutowireCapableBeanFactory.java:523][DEBUG]:Eagerly caching bean 'bootstrap' to allow for resolving potential circular references
+2014-03-12 09:34:17,530 [InitDestroyAnnotationBeanPostProcessor.java:298][DEBUG]:Invoking init method on bean 'bootstrap': public void com.moo.socketio.server.Bootstrap.start()
+2014-03-12 09:34:17,530 [Bootstrap.java:16][INFO]:starting server
+2014-03-12 09:34:17,531 [AbstractAutowireCapableBeanFactory.java:477][DEBUG]:Finished creating instance of bean 'bootstrap'
+2014-03-12 09:34:17,532 [AbstractApplicationContext.java:700][DEBUG]:Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@3c50507]
+2014-03-12 09:34:17,532 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:34:17,533 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+2014-03-12 09:34:17,533 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+2014-03-12 09:34:17,534 [PropertySourcesPropertyResolver.java:81][DEBUG]:Searching for key 'spring.liveBeansView.mbeanDomain' in [class path resource [server.properties]]
+2014-03-12 09:34:17,534 [PropertySourcesPropertyResolver.java:103][DEBUG]:Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+2014-03-12 09:34:17,535 [AbstractApplicationContext.java:873][INFO]:Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 09:34:17 CST 2014]; root of context hierarchy
+2014-03-12 09:34:17,535 [AbstractBeanFactory.java:249][DEBUG]:Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-03-12 09:34:17,535 [DefaultSingletonBeanRegistry.java:474][DEBUG]:Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@57d2fc36: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,springConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor,bootstrap]; root of factory hierarchy
+2014-03-12 09:34:17,535 [DisposableBeanAdapter.java:244][DEBUG]:Invoking destroy() on bean with name 'springConfig'
+2014-03-12 09:34:37,556 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5a5e5a50: startup date [Wed Mar 12 09:34:37 CST 2014]; root of context hierarchy
+2014-03-12 09:34:37,693 [Bootstrap.java:16][INFO]:starting server
+2014-03-12 09:34:37,696 [AbstractApplicationContext.java:873][INFO]:Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5a5e5a50: startup date [Wed Mar 12 09:34:37 CST 2014]; root of context hierarchy
+2014-03-12 10:07:17,859 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 10:07:17 CST 2014]; root of context hierarchy
+2014-03-12 10:07:18,174 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 10:07:18,297 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
+2014-03-12 10:22:25,703 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5a5e5a50: startup date [Wed Mar 12 10:22:25 CST 2014]; root of context hierarchy
+2014-03-12 10:22:26,012 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 10:22:26,134 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
+2014-03-12 10:26:27,534 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 10:26:27 CST 2014]; root of context hierarchy
+2014-03-12 10:26:27,852 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 10:26:27,978 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
+2014-03-12 10:30:39,339 [PacketHandler.java:77][ERROR]:Exception occurs
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:25)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:198)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:166)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:243)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:867)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:227)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:465)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:359)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Thread.java:662)
+2014-03-12 10:31:35,131 [PacketHandler.java:77][ERROR]:Exception occurs
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:25)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:198)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:166)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:243)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:867)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:227)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:465)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:359)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Thread.java:662)
+2014-03-12 10:31:46,243 [PacketHandler.java:77][ERROR]:Exception occurs
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:25)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:198)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:166)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:243)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:867)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:227)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:465)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:359)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Thread.java:662)
+2014-03-12 10:38:45,788 [PacketHandler.java:77][ERROR]:Exception occurs
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:25)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:198)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:166)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:243)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:867)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:227)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:465)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:359)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Thread.java:662)
+2014-03-12 10:39:33,689 [PacketHandler.java:77][ERROR]:Exception occurs
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:25)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:198)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:166)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:243)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:867)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:227)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:465)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:359)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Thread.java:662)
+2014-03-12 10:40:17,496 [PacketHandler.java:77][ERROR]:Exception occurs
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:25)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:198)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:166)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:243)
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:867)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:227)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:465)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:359)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Thread.java:662)
+2014-03-12 10:57:39,475 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 10:57:39 CST 2014]; root of context hierarchy
+2014-03-12 10:57:39,782 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 10:57:39,906 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
+2014-03-12 10:58:36,843 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 10:58:36 CST 2014]; root of context hierarchy
+2014-03-12 10:58:37,155 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 10:58:37,278 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
+2014-03-12 10:59:28,060 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5a5e5a50: startup date [Wed Mar 12 10:59:28 CST 2014]; root of context hierarchy
+2014-03-12 10:59:28,373 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 10:59:28,498 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
+2014-03-12 11:01:03,716 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5a5e5a50: startup date [Wed Mar 12 11:01:03 CST 2014]; root of context hierarchy
+2014-03-12 11:01:04,028 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 11:01:04,152 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
+2014-03-12 11:04:11,661 [AbstractApplicationContext.java:513][INFO]:Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@687b6889: startup date [Wed Mar 12 11:04:11 CST 2014]; root of context hierarchy
+2014-03-12 11:04:11,973 [Bootstrap.java:22][INFO]:starting server
+2014-03-12 11:04:12,099 [SocketIOServer.java:113][INFO]:SocketIO server started at port: 9092
