@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+        
+        <title>Flask Client</title>
+
+        <link href="css/bootstrap.css" rel="stylesheet">
+
+	<style>
+		body { 
+			padding:20px;
+		}
+		#console { 
+			height: 400px; 
+			overflow: auto; 
+		}
+		.username-msg {color:orange;}
+		.connect-msg {color:green;}
+		.disconnect-msg {color:red;}
+		.send-msg {color:#888}
+	</style>
+
+	<script src="js/socket.io/socket.io.js"></script>
+        <script src="js/moment.min.js"></script>
+        <script src="js/jquery-1.7.2.min.js"></script>
+	
+	<script>
+
+                var userName = 'user' + Math.floor((Math.random()*1000)+1);
+
+		var socket =  io.connect('http://localhost:9092', {'transports': ['flashsocket']});
+
+		socket.on('connect', function() {
+			output('<span class="connect-msg">Client has connected to the server!</span>');
+		});
+		
+		socket.on('message', function(data) {
+			output(data.line);
+		});
+		
+		socket.on('disconnect', function() {
+			output('<span class="disconnect-msg">The client has disconnected!</span>');
+		});
+
+		function output(message) {
+                        var currentTime = "<span class='time'>" +  moment().format('HH:mm:ss.SSS') + "</span>";
+                        var element = $("<div>" + currentTime + " " + message + "</div>");
+			$('#console').prepend(element);
+		}
+
+	</script>
+</head>
+
+<body>
+	
+	<h1>Netty-socketio Demo</h1>
+	
+	<br/>
+
+	<div id="console" class="well">
+	</div>
+
+</body>
+
+</html>
